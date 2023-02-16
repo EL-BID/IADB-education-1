@@ -12,6 +12,7 @@ shapely = "*"
 matplotlib = "*"
 "plotly.express" = "*"
 osmnx = "*"
+pandarallel = "*"
 
 [dev-packages]
 
