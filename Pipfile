@@ -9,8 +9,10 @@ geopandas = "*"
 numpy = "*"
 pandas = "*"
 shapely = "*"
+matplotlib = "*"
 "plotly.express" = "*"
 osmnx = "*"
+pandarallel = "*"
 
 [dev-packages]
 
