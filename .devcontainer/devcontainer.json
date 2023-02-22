@@ -27,5 +27,5 @@
       },
 
       // intall required packages that are not contained in the universal image
-      "postCreateCommand": "sudo pip install urbanpy ipywidgets geopandas shapely osmnx tqdm pandarallel"
+      "postCreateCommand": "sudo pip install urbanpy ipywidgets geopandas shapely osmnx tqdm pandarallel contextily"
 }
