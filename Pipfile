@@ -13,6 +13,8 @@ matplotlib = "*"
 "plotly.express" = "*"
 osmnx = "*"
 pandarallel = "*"
+seaborn = "*"
+contextily = "*"
 
 [dev-packages]
 
