@@ -26,8 +26,8 @@
         }
       },
 
-      // intall required packages that are not contained in the universal image and run setup script
-      "postCreateCommand": "sudo pip install urbanpy ipywidgets geopandas shapely osmnx tqdm pandarallel contextily && ./script.sh",
+      // install required packages that are not contained in the universal image and run setup script
+      "postCreateCommand": "sudo pip install urbanpy ipywidgets pandarallel contextily && ./setup.sh",
 
       "hostRequirements": {
         "cpus": 8,
