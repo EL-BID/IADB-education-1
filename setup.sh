@@ -4,5 +4,6 @@
 mkdir -p ~/data/osrm/
 cd ~/data/osrm
 wget https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf
+wget https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf
 
 # You can replace the url to any geofabrik sub-region download link
