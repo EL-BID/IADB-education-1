@@ -158,3 +158,5 @@ data/sul-latest.osrm.turn_duration_penalties
 data/sul-latest.osrm.turn_penalties_index
 data/sul-latest.osrm.turn_weight_penalties
 output.png
+es_para.pkl
+data/escuelas.csv
