@@ -32,4 +32,5 @@ The easiest way to run the code in this repo is to open up a GitHub codespace.  
 <img width="739" alt="Screenshot 2023-06-08 at 2 53 58 PM" src="https://github.com/github/IADB-education/assets/15171529/5d8bda51-222d-484a-8fa4-924b75ff52c3">
 
 
-5) It will take some time to open, once it does, you can start running the code! Do this sequentially starting from the top to make sure all the data is loaded into your environment correctly. Start running code by either clicking the `play` button on the top of each code cell. Or use the mac shortcut `shift+enter`
+5) It will take some time to open, once it does, you can start running the code! Do this sequentially starting from the top to make sure all the data is loaded into your environment correctly. Start running code by either clicking the `play` button on the top of each code cell. Or use the mac shortcut `shift+enter`. You may be prompted to "select a kernel" the first time you run your code. You can select `python` and the recommended version `3.10.4`
+<img width="1086" alt="Screenshot 2023-06-08 at 2 57 07 PM" src="https://github.com/github/IADB-education/assets/15171529/0aa6c3ac-8daa-47f8-a0ee-6f5208f3554d">
