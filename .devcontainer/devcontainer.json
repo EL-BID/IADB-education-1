@@ -30,8 +30,8 @@
       "postCreateCommand": "sudo pip install urbanpy ipywidgets pandarallel contextily && ./setup.sh",
 
       "hostRequirements": {
-        "cpus": 8,
-        "memory": "16gb",
-        "storage": "32gb"
+        "cpus": 32,
+        "memory": "64gb",
+        "storage": "128gb"
      }
 }
