@@ -34,3 +34,18 @@ The easiest way to run the code in this repo is to open up a GitHub codespace.  
 
 5) It will take some time to open, once it does, you can start running the code! Do this sequentially starting from the top to make sure all the data is loaded into your environment correctly. Start running code by either clicking the `play` button on the top of each code cell. Or use the mac shortcut `shift+enter`. You may be prompted to "select a kernel" the first time you run your code. You can select `python` and the recommended version `3.10.4`
 <img width="1086" alt="Screenshot 2023-06-08 at 2 57 07 PM" src="https://github.com/github/IADB-education/assets/15171529/0aa6c3ac-8daa-47f8-a0ee-6f5208f3554d">
+
+
+## Acknowledgments / Reconocimientos
+
+**Copyright © [2025]. Inter-American Development Bank ("IDB"). Authorized Use.**  
+The procedures and results obtained based on the execution of this software are those programmed by the developers and do not necessarily reflect the views of the IDB, its Board of Executive Directors or the countries it represents.
+
+**Copyright © [2025]. Banco Interamericano de Desarrollo ("BID"). Uso Autorizado.**  
+Los procedimientos y resultados obtenidos con la ejecución de este software son los programados por los desarrolladores y no reflejan necesariamente las opiniones del BID, su Directorio Ejecutivo ni los países que representa.
+
+### Support and Usage Documentation / Documentación de Soporte y Uso
+
+**Copyright © [2025]. Inter-American Development Bank ("IDB").** The Support and Usage Documentation is licensed under the Creative Commons License CC-BY 4.0 license. The opinions expressed in the Support and Usage Documentation are those of its authors and do not necessarily reflect the opinions of the IDB, its Board of Executive Directors, or the countries it represents.
+
+**Copyright © [2025]. Banco Interamericano de Desarrollo (BID).** La Documentación de Soporte y Uso está licenciada bajo la licencia Creative Commons CC-BY 4.0. Las opiniones expresadas en la Documentación de Soporte y Uso son las de sus autores y no reflejan necesariamente las opiniones del BID, su Directorio Ejecutivo ni los países que representa.
